@@ -75,4 +75,6 @@ Note: The raw `.csv` files were not uploaded to GitHub due to size limits. Only 
 **Jeevana Sree B**  
 📧 [jeevanasree@outlook.com](mailto:jeevanasree@outlook.com)  
 🌐 [github.com/Jeevana-Sree](https://github.com/Jeevana-Sree)
+🔗 [LinkedIn](https://www.linkedin.com/in/jeevanasreeb)
+
 
